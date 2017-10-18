@@ -1,4 +1,4 @@
-p{
+.franjas-laterales{
   background-color: #FFC133;
   display:block;
   height: 150px;
@@ -12,5 +12,71 @@ p{
   display:block;
   height: 150px;
   padding: 10px;
+
+}
+
+.franjas-laterales2{
+  background-color: #FFC133;
+  display:block;
+  height: 150px;
+  width: 250px;
+  padding: 10px;
+
+
+}
+
+.franja-central2{
+  color:white;
+  background-color: #545250;
+  display:block;
+  height: 150px;
+  width: 250px;
+  padding: 10px;
+
+}
+
+.franjas-laterales3{
+  background-color: #FFC133;
+  display:inline-block;
+  height: 150px;
+  width: 250px;
+  padding: 10px;
+  margin:20px;
+
+
+}
+
+.franja-central3{
+  color:white;
+  background-color: #545250;
+  display:inline-block;
+  height: 150px;
+  width: 250px;
+  padding: 10px;
+  margin:20px;
+
+}
+
+.franjas-laterales4{
+  background-color: #FFC133;
+  display:inline;
+  height: 50px;
+  width: 150px;
+  padding: 10px;
+  margin:5px;
+  box-sizing: content-box;
+
+
+}
+
+.franja-central4{
+  color:white;
+  background-color: #545250;
+  display:inline;
+  height: 50px;
+  width: 1000px;
+  padding: 10px;
+  margin:5px;
+  box-sizing: content-box;
 
 }
